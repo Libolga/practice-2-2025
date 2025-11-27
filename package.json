@@ -1,0 +1,13 @@
+{
+  "name": "merkle-tree",
+  "version": "1.0.0",
+  "description": "Merkle Tree implementation for blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0",
+    "chai": "^4.3.7"
+  }
+}
